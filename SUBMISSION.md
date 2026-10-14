@@ -12,7 +12,7 @@ Mock auth, no password. Click either user on the login page:
 - Bob (bob@ajaia.test) — for testing shared access
 
 ## Walkthrough video
-PASTE_VIDEO_URL_HERE
+https://youtu.be/BRbddnOdQvc
 
 ## Repo
 https://github.com/khuzaimaazhar/ajaia-docs
