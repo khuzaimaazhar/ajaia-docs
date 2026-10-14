@@ -38,3 +38,5 @@ https://github.com/khuzaimaazhar/ajaia-docs
 3. .docx import via mammoth.js
 4. View vs edit permission UI
 5. Export to PDF / Markdown
+
+- /api/docs POST route missing in deployed build → New Document button hangs on production. Local build worked; root cause was a missed file commit.
